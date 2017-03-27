@@ -1,0 +1,24 @@
+{
+  "name": "d3.heatmap",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rebecca Vest",
+    "email": "olserebe@hotmail.com",
+    "url": "http://www.dynamicdiner.com"
+  },
+  "devDependencies": {
+    "@types/d3": "^4.7.0",
+    "@types/node": "^7.0.0",
+    "@types/sprintf-js": "0.0.27",
+    "css-loader": "^0.26.1",
+    "d3": "^4.7.3",
+    "g": "^2.0.1",
+    "html-webpack-plugin": "^2.28.0",
+    "node-sass": "^4.3.0",
+    "sass-loader": "^4.1.1",
+    "sprintf-js": "^1.0.3",
+    "style-loader": "^0.13.1",
+    "webpack": "^2.2.1",
+    "webpack-parallel-uglify-plugin": "^0.4.1"
+  }
+}
